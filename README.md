@@ -4,3 +4,9 @@ sub-domain-recon.py tags
 -w, --wordlist
 -o, --output
 -c, --concurrency
+
+header-config-auditor.py tags
+
+-u, --url
+--json
+--timeout
